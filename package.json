@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doinel1a/vite-react-ts-starter"
+    "url": "https://github.com/doinel1a/vite-react-ts"
   },
   "scripts": {
     "postinstall": "husky & playwright install",
